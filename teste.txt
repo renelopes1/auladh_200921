@@ -12,4 +12,4 @@ DB_NAME="/home/ubunto/Downloads/socios-brasil-master/data/output/empresa.db"
 rows csv2sqlite --schemas=/home/ubunto/Downloads/socios-brasil-master/schema/cnae_secundaria.csv /home/ubunto/Downloads/socios-brasil-master/data/output/cnae_secundaria.csv.gz "$DB_NAME
 
 
-teste
+teste2
